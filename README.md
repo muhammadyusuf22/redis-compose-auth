@@ -8,7 +8,7 @@ Docker Compose With Auth Configuration
     docker-compose -f docker-compose.yml up -d
     ```
 
-### Konekss Redis Menggunakan redis-client
+### Koneksi Redis Menggunakan redis-cli
 1. Masuk docker exec menggunakan perintah berikut
     ```bash
     docker exec -it redis /bin/sh
